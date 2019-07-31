@@ -7,3 +7,5 @@
 [<font color="sandybrown">自动控制原理的第三课:数学模型线性化</font>](./3.md)
 
 [<font color="seagreen">自动控制原理的第四课:拉氏变换和反拉氏变换</font>](./4.md)
+
+[<font color="royalblue">自动控制原理的第五课:传递函数</font>](./5.md)
