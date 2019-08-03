@@ -11,3 +11,6 @@
 [<font color="royalblue">自动控制原理的第五课:传递函数</font>](./5.md)
 
 [<font color="crimson">自动控制原理的第六课:系统方框图及其简化</font>](./6.md)
+
+[<font color="sandybrown">自动控制原理的第七课:信号流图及梅逊公式</font>](./7.md)
+
