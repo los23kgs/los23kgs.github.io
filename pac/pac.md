@@ -15,3 +15,5 @@
 [<font color="sandybrown">自动控制原理的第七课:信号流图及梅逊公式</font>](./7.md)
 
 [<font color="seagreen">自动控制原理的第七课:时域响应及典型输入信号</font>](./8.md)
+
+[<font color="#ff461f">自动控制原理的第七课:时域瞬态响应分析</font>](./9.md)
